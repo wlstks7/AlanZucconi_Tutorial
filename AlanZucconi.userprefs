@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ImageProcess_r3dux/ImageEffectBasics.shader">
+    <Files>
+      <File FileName="Assets/ShaderSimulation/SmokeShader.shader" Line="1" Column="1" />
+      <File FileName="Assets/ShaderSimulation/ShaderSimulation.cs" Line="1" Column="1" />
+      <File FileName="Assets/ShaderSimulation/ShaderSimulation.shader" Line="1" Column="1" />
+      <File FileName="Assets/ShaderSimulation/ShaderSmoke.shader" Line="1" Column="1" />
+      <File FileName="Assets/ImageProcess_r3dux/ImageEffectBasics.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
